@@ -12,7 +12,7 @@ public class OccuranceOfSubstring {
 
 		
 		
-		return ;
+		return null;
 	}
 	public OccuranceOfSubstring() {
 		// TODO Auto-generated constructor stub

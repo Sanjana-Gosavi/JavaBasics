@@ -1,4 +1,4 @@
-package com.prowings.methoddeemo;
+package com.prowings.methoddemo;
 import java.util.Scanner;
 
 
