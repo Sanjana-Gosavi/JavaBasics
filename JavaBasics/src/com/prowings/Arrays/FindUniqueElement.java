@@ -6,7 +6,7 @@ public class FindUniqueElement {
 
 	public static void main(String[] args) {
 
-		int[] arr = { 12, 20, 4, 9, 2, 20, 9 };
+		int[] arr = { 12, 20, 12, 4, 9, 2, 20, 9 };
 		int n = arr.length;
 
 		findUnique(arr, n);
@@ -25,6 +25,5 @@ public class FindUniqueElement {
 			if (i == j)
 				System.out.println(arr[i]);
 		}
-
 	}
 }
